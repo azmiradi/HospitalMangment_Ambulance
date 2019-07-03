@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Hospital Management</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="Phone">Phone</string>
+    <string name="Email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="signIn">Sign In</string>
+    <string name="Required">Required</string>
+    <string name="atLest8">Password must Greater Than 8 character or number</string>
+    <string name="LoginIn">Login In</string>
+    <string name="registration">Create New Account</string>
+    <string name="Logout">Log Out</string>
+    <string name="logout">you want logout from account</string>
+    <string name="sure">Are you sure?</string>
+    <string name="login_fail">Login not Success</string>
+    <string name="key">AIzaSyAYloMOPEfTC4blQ1SQ4ydIPpa69dxxb5g</string>
+    <string name="tryAgian">try agian</string>
+    <string name="Request">Request</string>
+    <string name="Request_blood">Request blood</string>
+    <string name="SelectBloodType">SelectBloodType</string>
+    <string name="showBestRout">Show Best Rout</string>
+    <string name="Quntity">Quntity</string>
+    <array name="menuOptions">
+        <item>Increment Blood</item>
+        <item>Decrement Blood</item>
+        <item>Orders</item>
+        <item>Blood Bank</item>
+         <item>About</item>
+    </array>
+    <string name="title_activity_maps">Map</string>
+    <string name="Code">Hospital ID To Continue</string>
+    <string name="Check">Check</string>
+    <string name="confirm">Confirm</string>
+    <string name="Confrim_hospital_code">Confirm Hospital Code</string>
+    <string name="Expired">Expired</string>
+    <string name="Add_new">Add New Blood</string>
+    <string name="Add_hospital">Add Hospital</string>
+    <string name="Select_hospital_location">Select hospital location</string>
+    <string name="plese_select">Please Slect Hospital Location</string>
+    <string name="Add_Blood">Add Blood</string>
+    <string name="ConFirmThisLocation">Confirm This Location</string>
+    <string name="save_image">Save Image</string>
+    <string name="Log_out">Log out</string>
+
+</resources>
